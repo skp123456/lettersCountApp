@@ -1,0 +1,63 @@
+.bg-container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  min-height: 100vh;
+  background-size: cover;
+  border: 1px solid #1d976c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-container {
+  margin: 16px;
+}
+
+.main-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+  margin: 10px;
+}
+
+.label-input {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+  margin: 10px;
+}
+
+.input-element {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  height: 27px;
+  width: 250px;
+  margin: 10px;
+  outline: none;
+}
+
+.count {
+  height: 40px;
+  width: 150px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  margin: 16px;
+  justify-content: center;
+  align-items: center;
+}
+
+.letters-count {
+  color: #1d976c;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.calculator-image {
+  height: 250px;
+  width: 300px;
+}
